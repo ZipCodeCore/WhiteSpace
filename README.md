@@ -52,7 +52,7 @@ as output. first line is testdata1, then 2, then 3.
 
 ## postscript
 
-When I asked Github CoPilit to describe _whitespace_ with respect to Java, it helpfully wrote:
+_When I asked Github CoPilot to describe _whitespace_ with respect to Java, it helpfully wrote:_
 
    In Java, whitespace refers to one or more non-printable characters such as:
   
