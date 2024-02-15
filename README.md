@@ -72,3 +72,8 @@ _When I asked Github CoPilot to describe _whitespace_ with respect to Java, it h
   ```
   
   In both cases, the Java compiler ignores the extra whitespace and treats both lines as identical.
+
+  _ONE of the key learnings here is understanding those extra characters, __newline__ and __carriage return__, and how they are interpreted._
+
+  Yep, this zipcode stuff is gonna be _fun!_
+  
