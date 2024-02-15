@@ -50,30 +50,32 @@ when you read in the testdata files, your program should print
 
 as output. first line is testdata1, then 2, then 3.
 
-## postscript
+## On Whitespace
 
 _When I asked Github CoPilot to describe _whitespace_ with respect to Java, it helpfully wrote:_
 
-   In Java, whitespace refers to one or more non-printable characters such as:
-  
-  - ' ' (space)
-  - '\t' (tab)
-  - '\n' (new line)
-  - '\r' (carriage return)
-  
-  These characters are used to format the code for better readability. They separate tokens in the Java source code, but the Java compiler generally ignores them. For example, the following two lines of code are equivalent:
-  
-  ```java
-  int x = 10;
-  ```
-  
-  ```java
-  int     x    =    10;
-  ```
-  
-  In both cases, the Java compiler ignores the extra whitespace and treats both lines as identical.
+In Java, whitespace refers to one or more non-printable characters such as:
 
-  _ONE of the key learnings here is understanding those extra characters, __newline__ and __carriage return__, and how they are interpreted._
+- ' ' (space)
+- '\t' (tab)
+- '\n' (new line)
+- '\r' (carriage return)
 
-  Yep, this zipcode stuff is gonna be _fun!_
+These characters are used to format the code for better readability. They separate tokens in the Java source code, but the Java compiler generally ignores them. For example, the following two lines of code are equivalent:
+
+```java
+int x = 10;
+```
+
+```java
+int     x    =    10;
+```
+
+In both cases, the Java compiler ignores the extra whitespace and treats both lines as identical.
+
+## Postscript
+
+_ONE of the key learnings here is understanding those extra characters, __newline__ and __carriage return__, and how they are interpreted._
+
+Yep, this zipcode stuff is gonna be _fun!_
   
