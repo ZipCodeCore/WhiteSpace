@@ -22,7 +22,7 @@ If the input string is `"This is a string."` your `countBoth` should print
 ```
 3, 14
 ```
-Notice the comma! And Notice how the double quotes are ingmored by the counting method.
+Notice the comma! And Notice how the double quotes are ignored by the counting method.
 
 If the data file contains 
 
